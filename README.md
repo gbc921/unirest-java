@@ -52,19 +52,19 @@ There are dependencies for Unirest-Java, these should be already installed, and 
 
 ```xml
 <dependency>
-  <groupId>org.apache.httpcomponents</groupId>
-  <artifactId>httpclient</artifactId>
-  <version>4.3.6</version>
+	<groupId>org.apache.httpcomponents</groupId>
+	<artifactId>httpclient</artifactId>
+	<version>4.5.1</version>
 </dependency>
 <dependency>
-  <groupId>org.apache.httpcomponents</groupId>
-  <artifactId>httpasyncclient</artifactId>
-  <version>4.0.2</version>
+	<groupId>org.apache.httpcomponents</groupId>
+	<artifactId>httpasyncclient</artifactId>
+	<version>4.1.1</version>
 </dependency>
 <dependency>
-  <groupId>org.apache.httpcomponents</groupId>
-  <artifactId>httpmime</artifactId>
-  <version>4.3.6</version>
+	<groupId>org.apache.httpcomponents</groupId>
+	<artifactId>httpmime</artifactId>
+	<version>4.5.1</version>
 </dependency>
 <dependency>
   <groupId>org.json</groupId>
